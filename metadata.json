@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Store Manager",
+  "description": "A comprehensive control panel and interactive simulator for a Telegram bot selling subscriptions, game coins, VPN access, and digital keys with automated checkouts and instant key delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
